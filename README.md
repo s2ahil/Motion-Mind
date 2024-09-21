@@ -5,7 +5,9 @@ Our app, Motion Mind, leverages the power of your smartphone's accelerometer to 
 
 Names - 
 1,sahil pradhan sahilpradhan411@gmail.com
+
 2,Rahul Yadav   rahul21102@iiitnr.edu.in 
 
 Track: 
+
 Best Beginner hack
